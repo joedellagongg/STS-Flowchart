@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="Page-1" id="P248FYWzakACENcYzD32">
-    <mxGraphModel dx="2206" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="735" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1834,11 +1834,6 @@
         <mxCell id="SPefi2bM6oXoI8bOSLz5-301" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPefi2bM6oXoI8bOSLz5-290" target="SPefi2bM6oXoI8bOSLz5-294">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SPefi2bM6oXoI8bOSLz5-302" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="SPefi2bM6oXoI8bOSLz5-298">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4038.998461538461" y="3475.461538461539" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SPefi2bM6oXoI8bOSLz5-303" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4300" y="3395.46" width="169.78999999999996" height="168" as="geometry" />
         </mxCell>
@@ -1850,11 +1845,6 @@
         </mxCell>
         <mxCell id="SPefi2bM6oXoI8bOSLz5-306" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SPefi2bM6oXoI8bOSLz5-303">
           <mxGeometry x="129.78999999999996" y="35" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SPefi2bM6oXoI8bOSLz5-307" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPefi2bM6oXoI8bOSLz5-298">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4361.000000000001" y="3475.46" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="SPefi2bM6oXoI8bOSLz5-309" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;DISPLAY&lt;br&gt;ANNOUNCE&lt;br&gt;MENT&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="3820" y="3687.9900000000002" width="155.04" height="83.02" as="geometry" />
@@ -2033,6 +2023,12 @@
           <mxGeometry x="4053.96" y="4110.820000000001" width="155.04" height="83.02" as="geometry" />
         </mxCell>
         <mxCell id="SPefi2bM6oXoI8bOSLz5-385" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPefi2bM6oXoI8bOSLz5-362" target="SPefi2bM6oXoI8bOSLz5-290">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPefi2bM6oXoI8bOSLz5-386" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPefi2bM6oXoI8bOSLz5-294" target="SPefi2bM6oXoI8bOSLz5-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPefi2bM6oXoI8bOSLz5-387" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SPefi2bM6oXoI8bOSLz5-298" target="SPefi2bM6oXoI8bOSLz5-304">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
